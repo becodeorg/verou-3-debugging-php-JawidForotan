@@ -10,5 +10,7 @@ myFunction(1);
 
 myFunction(2);
 $days = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
-$monday = $days[0];
+$monday = "$days[0]<br/>";
+$tuesday = $days[1];
 echo $monday;
+echo $tuesday;
